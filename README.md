@@ -6,7 +6,7 @@
 - Created in 10 mins by Shazin
 - Any beginner fork it
 
-*Possible suggestions to extend the idea:*
+**Possible suggestions to extend the idea:**
 - Randomize the maximum and minimum range.
 - Create a Python bot to play with it.
 - Add detailed hints like when someone guesses a value `output: very near`
