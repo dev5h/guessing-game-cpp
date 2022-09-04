@@ -1,5 +1,7 @@
 # A NumberGuessing Game in C++
 
+![](https://github.com/shazinii/guessing-game-cpp/raw/main/scr.png)
+
 ### Message:
 - Beginner Friendly C++ Practice
 - Made for a beginner level practice with C++
